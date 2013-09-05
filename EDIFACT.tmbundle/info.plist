@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>urwxv@zr.pbz</string>
+	<key>contactName</key>
+	<string>Hejki</string>
+	<key>description</key>
+	<string>EDIFACT bundle.</string>
+	<key>name</key>
+	<string>EDIFACT</string>
+	<key>uuid</key>
+	<string>22E729E6-0ACD-4D33-B1C8-92A836FB79B3</string>
+</dict>
+</plist>

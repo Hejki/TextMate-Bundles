@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Published: ${1|false,true|}</string>
+	<key>name</key>
+	<string>Meta: Published</string>
+	<key>uuid</key>
+	<string>B26FDDA8-B260-4C7B-84E2-1DD83B5F7C70</string>
+</dict>
+</plist>
